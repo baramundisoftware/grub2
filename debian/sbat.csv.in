@@ -1,3 +1,4 @@
 sbat,1,SBAT Version,sbat,1,https://github.com/rhboot/shim/blob/main/SBAT.md
-grub,1,Free Software Foundation,grub,@UPSTREAM_VERSION@,https://www.gnu.org/software/grub/
-grub.ubuntu,1,Ubuntu,grub2,@DEB_VERSION@,https://www.ubuntu.com/
+grub,1,Free Software Foundation,grub,2.04,https://www.gnu.org/software/grub/
+grub.ubuntu,1,Ubuntu,grub2,2.04-1ubuntu44.2,https://www.ubuntu.com/
+grub.baramundi,1,Baramundi,grub2,2.04-1ubuntu44.2-bblefi1,https://github.com/baramundisoftware/grub2
